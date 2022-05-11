@@ -2,6 +2,7 @@ public class Student{
 
 
 	public staticvoidmain(){
+		System.out.printlm();
 	}
 
 }
