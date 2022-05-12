@@ -1,7 +1,11 @@
 public class Student{
 
 
+<<<<<<< HEAD
 	public staticvoidmain(Stirng [] args){
+=======
+	public staticvoidmain(String [] ...){
+>>>>>>> ce77c2c583845b05e9e6f27f48b37f2357399a88
 		System.out.println("Hello");
 	}
 
