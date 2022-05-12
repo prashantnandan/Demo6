@@ -1,7 +1,7 @@
 public class Student{
 
 
-	public staticvoidmain(){
+	public staticvoidmain(Stirng [] args){
 		System.out.println("Hello");
 	}
 
